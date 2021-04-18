@@ -1,4 +1,7 @@
-# Silence Cookies
+# Silence Cookies (Inspired by meme)
+
+![iu-3](https://user-images.githubusercontent.com/15792183/115133165-1c343a00-9fd4-11eb-9916-62962b098b25.jpeg)
+
 
 Silence Cookies is an iOS app to block website cookie consent banners. Silence Cookies does not accept or deny website cookies, it only hides the cookie banner from appearing on website.
 
